@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Your Name - Portfolio</title>
+    <!-- Add link to your CSS file -->
+</head>
+<body>
+    <header>
+        <h1>Your Name</h1>
+        <p>Your Professional Title</p>
+    </header>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>Short bio goes here...</p>
+    </section>
+
+    <section id="portfolio">
+        <h2>Portfolio</h2>
+        <!-- Portfolio items go here -->
+    </section>
+
+    <section id="resume">
+        <h2>Resume</h2>
+        <a href="resume.pdf" download>Download My Resume</a>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Me</h2>
+        <p>Email: your.email@example.com</p>
+        <!-- Add more contact details or a contact form -->
+    </section>
+
+    <footer>
+        <p>Copyright © Your Name</p>
+    </footer>
+</body>
+</html>
